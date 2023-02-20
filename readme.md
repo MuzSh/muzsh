@@ -6,7 +6,7 @@ Developer.
 
 I have strong passion for software engineering. Knowledgeable in Python, C++, Java. Bachelors in Computer Science, minor in Mathematics.
 
-* 🌍  I'm based in New York.
+* 🌍  I'm based in New York City Metropolitan Area.
 * 🚀  I'm currently working on [everything.](http://muzs.io/)
 * 🧠  I'm learning Typescript, Kotlin, and Go.
 
